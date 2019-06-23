@@ -1,7 +1,7 @@
 # jetson-thermal-monitor
 Real-time plot of temperatures from NVIDIA Jetson on-module thermal sensors
 
-<img src="./jetson-temp-monitor.gif" alt="Screenshot" title="Screenshot">
+<img src="./jetson_temp_monitor.gif" alt="Screenshot" title="Screenshot">
 
 # Usage
 ```
